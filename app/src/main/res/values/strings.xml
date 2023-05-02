@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="change_languange">Change Language</string>
+    <string name="last_name">Last Name</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application</string>
+    <string name="change_languange">تغيير اللغة</string>
+    <string name="last_name">اسم العائلة</string>
+</resources>
